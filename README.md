@@ -9,5 +9,5 @@ example:
 
 | element | selector | comment | common actions |
 |---------|---------|---------|-----|
-| youtube endscreen <br> (fullscreen player)  |  .ytp-fullscreen-grid-stills-container  |  Changed in October 2025? | display:none, <br> transform: scale(0.5) |
+| youtube endscreen |  .ytp-fullscreen-grid-stills-container  |  Changed in October 2025? | display:none, <br> transform: scale(0.5) |
 
